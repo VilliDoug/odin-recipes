@@ -12,6 +12,6 @@ Everything is very simple, but it's a start.
 
 Starting some basic CSS editing on the website for practice.
 
-Have to mindful of minor details that could cause problems in the future - i.e. missing specific values to be written in code for it to work.
+Have to be mindful of minor details that could cause problems in the future - i.e. missing specific values to be written in code for it to work.
 
 No need for tons of divs if class does what I need
